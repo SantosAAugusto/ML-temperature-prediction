@@ -1,8 +1,9 @@
 # Description
 This project uses Machine Learning Algorithms to make predictions of the tomorrow's temperature.
 Includes Data Cleaning and Feature Engineering, improving the accuracy of the Model.
-The libraries used were: Pandas and Scikit-learn.
-Evaluation Metrics: Mean Absolute Error (MAE) and Accuracy
+
+- **Libraries used**: Pandas and Scikit-learn.
+- **Evaluation Metrics**: Mean Absolute Error (MAE) and Accuracy
 
 ## Material
 The data used for this project can be found in the following link: https://www.ncei.noaa.gov/cdo-web/
