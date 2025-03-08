@@ -3,6 +3,7 @@ This project uses Machine Learning Algorithms to make predictions of the tomorro
 Includes Data Cleaning and Feature Engineering, improving the accuracy of the Model.
 
 - **Libraries used**: Pandas and Scikit-learn.
+- **ML algorithm**: Ridge Regression
 - **Evaluation Metrics**: Mean Absolute Error (MAE) and Accuracy
 
 ## Material
